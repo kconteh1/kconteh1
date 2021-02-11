@@ -1,5 +1,5 @@
 ### Greatness Only🤞🏿
 
-Kapr Conteh (kconteh1) -
+Kapr Conteh -
 Computer Systems Technology @ Seneca College -
 OPS435NCC
