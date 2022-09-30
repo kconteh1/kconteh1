@@ -1,4 +1,4 @@
-### Greatness Only🤞🏿
+### Faith & Patience
 
 Kapr Conteh -
 Computer Systems Technology @ Seneca College
