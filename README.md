@@ -3,8 +3,8 @@
 Welcome to my professional portfolio. I'm an experienced IT professional with **5+ years of proven expertise** in computer and server operations, networking, troubleshooting, asset management, and IT support. My work focuses on delivering efficient solutions, maintaining reliable systems, and supporting organizational goals with professionalism and precision.
 
 I specialize in managing user accounts, computers, and network infrastructure, resolving technical issues efficiently, and contributing to the stabilization and security of IT environments. My strengths include exceptional problem-solving, adaptability, and focus on delivering excellent service both independently and in team settings.
-
 ---
+<details>
 <summary><h3>💻 Technical Skills</h3></summary>
 
 ### Operating Systems
@@ -30,7 +30,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Apple Business Manager, SOTI MobiControl, SOTI Connect
 - ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
 - Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
-
+</details>
 ---
 
 ## Education
