@@ -1,3 +1,8 @@
+<!-- Matrix-style banner (replace URL with your own image if needed) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/matrix-banner.gif" alt="Matrix Banner" width="100%">
+</p>
+
 # Kapr Idriss Conteh
 
 Welcome to my professional portfolio. I'm an experienced IT professional with **5+ years of proven expertise** in computer and server operations, networking, troubleshooting, asset management, and IT support. My work focuses on delivering efficient solutions, maintaining reliable systems, and supporting organizational goals with professionalism and precision.
@@ -6,7 +11,8 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ---
 
-## Technical Skills
+<details>
+<summary><strong>Technical Skills</strong></summary>
 
 ### Operating Systems
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
@@ -32,9 +38,10 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
 - Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
 
----
+</details>
 
-## Education
+<details>
+<summary><strong>Education</strong></summary>
 
 **Seneca Polytechnic**  
 - Computer Systems Technology - Ontario College Advanced Diploma
@@ -51,9 +58,10 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
 - Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
 
----
+</details>
 
-## Work Experience
+<details>
+<summary><strong>Work Experience</strong></summary>
 
 ### IT Systems Technician - **Ventura Foods**  
 *Apr 2024 - Present | Toronto, Canada.*  
@@ -106,11 +114,10 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Adhered to workplace safety protocols and maintained a clean, organized work environment.  
 - Followed safety protocols and reported potential hazards or equipment malfunctions.  
 
----
+</details>
 
-## Projects
-
-Here are key IT and infrastructure projects I’ve contributed to:
+<details>
+<summary><strong>Projects</strong></summary>
 
 ### **Ventura Foods Projects**
 **Zebra Printers Upgrade & SOTI Connect Enrollment Project**  
@@ -157,9 +164,10 @@ I contributed to this successful project by implementing key security measures o
 **Portable Smart Security Camera Project**  
 Contributed to the development of a Portable Smart Security Camera powered by Raspberry Pi, designed to capture images or videos of unauthorized individuals. Implemented OpenCV for efficient object detection capabilities. Integrated email functionality to enable the Raspberry Pi to send notifications containing detected objects.
 
----
+</details>
 
-## Certifications
+<details>
+<summary><strong>Certifications</strong></summary>
 
 - Introduction to Modern AI - Cisco Networking Academy  
 - Network Technician Career Path - Cisco Networking Academy  
@@ -173,9 +181,10 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 - Introduction to AI Skills for Nonprofit - Microsoft Learn  
 - Automox Level I Essentials - Automox University  
 
----
+</details>
 
-## Volunteering Experience
+<details>
+<summary><strong>Volunteering Experience</strong></summary>
 
 **IT Overview Facilitator**  
 *Take Your Kids to Work Day (Ventura Foods, Nov 2025)*  
@@ -192,9 +201,11 @@ The Ventura Foods Toronto Plant hosted its 3rd annual “Take Your Kids to Work 
 
 Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility of guiding attendees on an extensive tour of our campus, providing them with an immersive experience of our state-of-the-art classrooms, well-equipped laboratories, and diverse student facilities, thereby allowing them to truly embrace the vibrant campus life Seneca College has to offer.  
 
----
+</details>
 
-## Honours, Awards & Achievement 
+<details>
+<summary><strong>Honours, Awards & Achievements</strong></summary>
+
 - Outstanding Colleague Recognition Award  
 - Outstanding Support Staff Award Nominee  
 - RMA Canada Bursary Award  
@@ -211,18 +222,19 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 - Award of Distinction for Ontario Literacy Course  
 - Award of Distinction for Mathematics  
 
----
+</details>
 
-## Contact
+<details>
+<summary><strong>Contact</strong></summary>
 
 **Let’s Connect:**
 - 🔗 LinkedIn: https://www.linkedin.com/in/kaprconteh/
 - 📧 Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
+
+</details>
 
 ---
 
 ## Summary
 
 This repository reflects my full professional experience in IT systems, networking, cloud management, and technical support. It highlights real projects, certifications, awards, and practical work history. I welcome collaboration, professional opportunities, and conversation with recruiters, peers, and hiring managers.
-
----
