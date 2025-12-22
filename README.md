@@ -110,19 +110,6 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ---
 
-## Volunteering
-
-- **IT Overview Facilitator**  
-- Take Your Kids to Work Day (Ventura Foods, Nov 2025)  
-
-- **IT Overview Facilitator**  
-- Take Your Kids to Work Day (Ventura Foods, Nov 2024)  
-
-- **Open House Tour Ambassador**  
-- Seneca Fall Open House (Seneca College, Nov 2019)  
-
----
-
 ## Projects
 
 Here are key IT and infrastructure projects I’ve contributed to:
@@ -161,6 +148,22 @@ Here are key IT and infrastructure projects I’ve contributed to:
 - SOTI MobiControl 15 Complete Series - SOTI Academy  
 - Introduction to AI Skills for Nonprofit - Microsoft Learn  
 - Automox Level I Essentials - Automox University  
+
+---
+
+## Volunteering
+
+**IT Overview Facilitator**  
+- Take Your Kids to Work Day (Ventura Foods, Nov 2025)  
+
+
+**IT Overview Facilitator**  
+*Take Your Kids to Work Day (Ventura Foods, Nov 2024)*  
+The Ventura Foods Toronto Plant hosted its 3rd annual “Take Your Kids to Work Day”. Students had the opportunity to explore key areas of our daily operations, including the Warehouse, Maintenance, Production, and Information Technology. I had the pleasure of guiding them through an overview of our Information Technology department, highlighting my day-to-day duties and responsibilities within IT operations. The session provided students with insight into how technology supports and drives efficiency across the plant’s business processes, from system maintenance and user support to network infrastructure and data security.  
+
+**Open House Tour Ambassador**  
+- Seneca Fall Open House (Seneca College, Nov 2019)  
+Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility of guiding attendees on an extensive tour of our campus, providing them with an immersive experience of our state-of-the-art classrooms, well-equipped laboratories, and diverse student facilities, thereby allowing them to truly embrace the vibrant campus life Seneca College has to offer.  
 
 ---
 
