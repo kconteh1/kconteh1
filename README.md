@@ -38,9 +38,9 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 **Seneca College**  
 *Ontario College Advanced Diploma — Computer Systems Technology*  
-- Graduated with Honours, GPA: 3.7  
-- Sep 2019 – Dec 2022 — Toronto, Canada
-- Program Info: https://www.senecapolytechnic.ca/programs/fulltime/CTY.html
+*Graduated with Honours, GPA: 3.7*
+*Sep 2019 – Dec 2022 — Toronto, Canada*
+*Program Info: https://www.senecapolytechnic.ca/programs/fulltime/CTY.html*
 
 **Emery Adult Learning Center**  
 *Ontario Secondary School Diploma*  
