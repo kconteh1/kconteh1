@@ -218,7 +218,6 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 - Award of Distinction for Mathematics  
 
 </details>
----
 
 ## Contact
 
