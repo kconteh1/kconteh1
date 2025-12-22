@@ -5,9 +5,7 @@ Welcome to my professional portfolio. I'm an experienced IT professional with **
 I specialize in managing user accounts, computers, and network infrastructure, resolving technical issues efficiently, and contributing to the stabilization and security of IT environments. My strengths include exceptional problem-solving, adaptability, and focus on delivering excellent service both independently and in team settings.
 
 ---
-
-## Technical Skills
-
+<summary><h3>💻 Technical Skills</h3></summary>
 ### Operating Systems
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
 - Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian  
