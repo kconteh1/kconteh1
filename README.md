@@ -154,8 +154,9 @@ Here are key IT and infrastructure projects I’ve contributed to:
 ## Volunteering
 
 **IT Overview Facilitator**  
-- Take Your Kids to Work Day (Ventura Foods, Nov 2025)  
+*Take Your Kids to Work Day (Ventura Foods, Nov 2025)*  
 
+The Ventura Foods Toronto Plant hosted its 4th annual “Take Your Kids to Work Day”. Students had the chance to explore key areas of our operations, including the Warehouse, Maintenance, Production, and Information Technology. I had the opportunity to lead them through an introduction to our IT department, sharing an overview of my daily responsibilities and the essential role IT plays in our plant’s success. Students got an overview of how technology boosts productivity and supports all areas of our company, from network infrastructure and data security to system maintenance and user support.
 
 **IT Overview Facilitator**  
 *Take Your Kids to Work Day (Ventura Foods, Nov 2024)*  
@@ -163,7 +164,7 @@ Here are key IT and infrastructure projects I’ve contributed to:
 The Ventura Foods Toronto Plant hosted its 3rd annual “Take Your Kids to Work Day”. Students had the opportunity to explore key areas of our daily operations, including the Warehouse, Maintenance, Production, and Information Technology. I had the pleasure of guiding them through an overview of our Information Technology department, highlighting my day-to-day duties and responsibilities within IT operations. The session provided students with insight into how technology supports and drives efficiency across the plant’s business processes, from system maintenance and user support to network infrastructure and data security.  
 
 **Open House Tour Ambassador**  
-- Seneca Fall Open House (Seneca College, Nov 2019)  
+*Seneca Fall Open House (Seneca College, Nov 2019)*  
 
 Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility of guiding attendees on an extensive tour of our campus, providing them with an immersive experience of our state-of-the-art classrooms, well-equipped laboratories, and diverse student facilities, thereby allowing them to truly embrace the vibrant campus life Seneca College has to offer.  
 
@@ -201,4 +202,3 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 This repository reflects my full professional experience in IT systems, networking, cloud management, and technical support. It highlights real projects, certifications, awards, and practical work history. I welcome collaboration, professional opportunities, and conversation with recruiters, peers, and hiring managers.
 
 ---
-
