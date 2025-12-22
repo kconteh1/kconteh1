@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kconteh1/matrix.gif" width="100%" />
+  <img src="kconteh1/kconteh1/matrix.gif" width="100%" />
 </p>
 
 # Kapr Idriss Conteh
