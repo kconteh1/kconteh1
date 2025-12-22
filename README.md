@@ -6,6 +6,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ---
 <summary><h3>💻 Technical Skills</h3></summary>
+
 ### Operating Systems
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
 - Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian  
