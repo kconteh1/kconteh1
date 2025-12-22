@@ -34,8 +34,6 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
 </details>
 
----
-
 <details>
 <summary><h3>🎓 Education</h3></summary>
 
