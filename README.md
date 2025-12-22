@@ -36,29 +36,27 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ## Education
 
-**Seneca College**  
-- Ontario College Advanced Diploma - Computer Systems Technology  
+**Seneca Polytechnic**  
+- Computer Systems Technology - Ontario College Advanced Diploma
 - Graduated with Honours, GPA: 3.7  
-- Sep 2019 - Dec 2022 | Toronto, Canada  
-- Program Info: https://www.senecapolytechnic.ca/programs/fulltime/CTY.html  
+- Sep 2019 - Dec 2022 | Toronto, Canada.   
 
 **Emery Adult Learning Center**  
-*Ontario Secondary School Diploma*  
-*Class of 2018/19 Valedictorian, GPA: 4.0*  
-*Apr 2018 - Jun 2019 | Toronto, Canada*  
+- Ontario Secondary School Diploma  
+- Class of 2018/19 Valedictorian, GPA: 4.0  
+- Apr 2018 - Jun 2019 | Toronto, Canada.  
 
 **Albert Academy Secondary School**  
-*High School Diploma | General Studies*  
-*Sep 2012 - Jun 2016 | Freetown, Sierra Leone*  
-*Basic Education Certificate Examination (BECE)*  
-*West African Senior School Certificate Examination (WASSCE)*  
+- Junior Secondary School - Basic Education Certificate Examination (BECE)  
+- Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
+- Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
 
 ---
 
 ## Work Experience
 
 ### IT Systems Technician - **Ventura Foods**  
-*Apr 2024 - Present | Toronto, Canada*  
+*Apr 2024 - Present | Toronto, Canada.*  
 - Deliver technical support across Canada and the U.S. via ServiceNow, ensuring minimal downtime.  
 - Manage user & computer accounts, group memberships, through Active Directory & Microsoft Entra ID.  
 - Provide IT support to OT operations, ensuring reliable communication across industrial control systems.  
@@ -73,7 +71,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Support IT setups for meetings, plant townhall events, and conference rooms.  
 
 ### IT Systems Administrator - **Total Credit Recovery Ltd.**  
-*Dec 2022 - Apr 2024 | Toronto, Canada*  
+*Dec 2022 - Apr 2024 | Toronto, Canada.*  
 - Administered user and computer accounts, permissions, and group policies through Active Directory.  
 - Deliver technical support on-site visits and remote assistance via SysAid Helpdesk and VNC Solutions.  
 - Installed, configured, and troubleshot endpoints and servers both physically and virtually.  
@@ -87,7 +85,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Assisted with office relocations and workstation setups, ensuring minimal downtime.  
 
 ### Junior Systems Administrator (Internship) - **Total Credit Recovery Ltd.**  
-*Jan 2022 - Sep 2022 | Toronto, Canada*  
+*Jan 2022 - Sep 2022 | Toronto, Canada.*  
 - Managed user and computer accounts through Active Directory and ESET Protect Cloud.  
 - Deliver technical support on-site visits and remote assistance via SysAid Helpdesk and VNC Solutions.  
 - Provisioned and deployed endpoint devices to new employees across Canada.  
@@ -100,7 +98,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Oversaw and managed employee onboarding and offboarding assets management.  
 
 ### Production Worker - **Maple Leaf Foods Inc.**  
-*Jul 2018 - Jan 2021 | Toronto, Canada*  
+*Jul 2018 - Jan 2021 | Toronto, Canada.*  
 - Proactively anticipated issues on the production line and identified solutions.  
 - Collaborated with team members and team leads to meet daily production targets and deadlines.  
 - Maintained compliance with Good Manufacturing Practices standard during all production activities.  
@@ -146,7 +144,7 @@ Contributed to the successful ESET Full Disk Encryption deployment, securing wor
 **Onboarding & Offboarding Asset Management Project**  
 Contributed to the improvement of the onboarding and offboarding procedures, specifically focusing on the management of company assets, particularly workstations, for all employees. Implemented necessary changes to improve efficiency and security within the infrastructure.
 
-### **Seneca College Projects**
+### **Seneca Polytechnic Projects**
 **Multi-Access Print Service Integration Project**  
 I contributed to a group project which connected three organizations under a unified and secure printing system. Using Windows Server 2008 and Linux print servers, we enabled two-way printing between the primary and secondary sites, while the third site was restricted to sending print jobs only. The configuration used Samba for cross-platform integration, ensured strong authentication, and achieved smooth, uninterrupted printing across all sites.
 
@@ -177,7 +175,7 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 
 ---
 
-## Volunteering
+## Volunteering Experience
 
 **IT Overview Facilitator**  
 *Take Your Kids to Work Day (Ventura Foods, Nov 2025)*  
