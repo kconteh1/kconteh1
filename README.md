@@ -159,18 +159,22 @@ Here are key IT and infrastructure projects I’ve contributed to:
 
 ---
 
-## Honours & Awards
-
+## Honours, Awards & Achievement 
 - Outstanding Colleague Recognition Award  
 - Outstanding Support Staff Award Nominee  
 - RMA Canada Bursary Award  
+- Ontario College Advanced Diploma (OCAD)  
 - Amsdell Scholarship Award  
 - McLean Foundation Award  
 - SSF Domestic Student Award  
-- Ontario College Advanced Diploma (OCAD)  
+- Certificate of Recognition  
+- Ontario Secondary School Diploma (OSSD)  
+- Principal's Award for Student Leadership  
 - Community of Learners Award  
-- Valedictorian — OSSD  
-- Awards of Distinction (Computer Studies, Literacy, Mathematics) 
+- Valedictorian - Class of 2018/19 
+- Awards of Distinction for Computer Studies  
+- Award of Distinction for Ontario Literacy Course  
+- Award of Distinction for Mathematics  
 
 ---
 
