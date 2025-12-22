@@ -1,4 +1,4 @@
-# Portfolio — Kapr Idriss Conteh
+# Kapr Idriss Conteh
 
 Welcome to my professional portfolio. I'm an experienced IT professional with **5+ years of proven expertise** in computer and server operations, networking, troubleshooting, asset management, and IT support. My work focuses on delivering efficient solutions, maintaining reliable systems, and supporting organizational goals with professionalism and precision.
 
@@ -15,26 +15,13 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Google: Android, ChromeOS 
 
 ### Hardware & Devices
-- Computers (Desktops & Laptops)
-- Servers (On-prem & Cloud)
-- Network Switches, Routers, Access Points
-- Wireless Display Devices
-- Phones, VoIP Phones, Soft Phones
-- NVR & Cloud-Managed Camera Systems
-- Enterprise Printers (Xerox, Brother, Canon, HP)
-- Industrial Printers (Zebra, Brady)
+- Computers (Desktops & Laptops) | Servers (On-prem & Cloud)
+- Network Switches, Routers, Access Points, Wireless Display Devices
+- Phones, VoIP Phones, Soft Phones | NVR & Cloud-Managed Camera Systems
+- Enterprise Printers (Xerox, Brother, Canon, HP) | Industrial Printers (Zebra, Brady)
 
 ### Software & Tools
-- Active Directory, SharePoint
-- Hyper-V, VMware Workstation
-- Genesys PureConnect
-- BarTender Administration
-- Apple Configurator
-- VNC & LogMeIn Solutions
-- Wireshark, PuTTY Suite
-- Clonezilla, SmartDeploy, WinSCP
-- PowerShell
-- FortiClient & GlobalProtect VPN 
+- Active Directory, SharePoint, Hyper-V, VMware Workstation, Apple Configurator, VNC & LogMeIn, Wireshark, PuTTY Suite, Clonezilla, SmartDeploy, WinSCP, PowerShell, FortiClient & GlobalProtect VPN, Genesys PureConnect, BarTender Administration
 
 ### Cloud & Enterprise Systems
 - Microsoft Entra ID, Microsoft 365 Copilot, Microsoft Intune
