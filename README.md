@@ -175,5 +175,3 @@ This repository reflects my full professional experience in IT systems, networki
 
 ---
 
-```markdown
-
