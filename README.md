@@ -59,32 +59,54 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ### IT Systems Technician — **Ventura Foods**  
 *Apr 2024 – Present — Toronto, Canada*  
-- Deliver IT support across Canada & U.S. via ServiceNow  
-- Manage user and computer accounts via AD & Microsoft Entra ID  
-- Maintain network operations including switches, routers, and access points  
-- Support endpoint provisioning and hardware coordination  
-- Manage IT asset inventory and vendor coordination  
-- Assist in office relocations and meeting room setups 
+- Deliver technical support across Canada and the U.S. via ServiceNow, ensuring minimal downtime.  
+- Manage user & computer accounts, group memberships, through Active Directory & Microsoft Entra ID.  
+- Provide IT support to OT operations, ensuring reliable communication across industrial control systems.  
+- Maintain accurate IT asset inventory, ensuring efficient allocation & lifecycle management of hardware.  
+- Support network operations by deploying and troubleshooting access points, switches and routers.  
+- Recommend cost-effective IT equipment, coordinating with vendors including Lenovo, CDW and SHI.  
+- Support onboarding and offboarding by user provisioning, IT orientations and assets assignment.  
+- Provisioned and deployed endpoint devices to new employees across Canada.  
+- Manage endpoint devices using Intune, Microsoft Entra ID, Active Directory & Apple Business Manager.  
+- Assist with office relocations and cubicle/workstation setups, ensuring minimal downtime.  
+- Schedule and coordinate Lenovo onsite hardware repairs for warranted devices.  
+- Support IT setups for meetings, plant townhall events, and conference rooms.  
 
 ### IT Systems Administrator — **Total Credit Recovery Ltd.**  
 *Dec 2022 – Apr 2024 — Toronto, Canada*  
-- Managed AD accounts, permissions, and group policies  
-- Provided on-site & remote technical support  
-- Used SysAid Helpdesk for asset tracking and support ticketing  
-- Managed company mobile devices via BlackBerry UEM  
-- Coordinated onboarding/offboarding and IT asset deployment  
+- Administered user and computer accounts, permissions, and group policies through Active Directory.  
+- Deliver technical support on-site visits and remote assistance via SysAid Helpdesk and VNC Solutions.  
+- Installed, configured, and troubleshot endpoints and servers both physically and virtually.  
+- Utilized SysAid Helpdesk for ticket management, issue resolution, and asset management.  
+- Documented IT processes, resolutions, and procedural directives systematically.  
+- Oversaw and managed employee onboarding and offboarding assets management.  
+- Provisioned and deployed endpoint devices to new employees across Canada.  
+- Coordinated the recruitment, training, and supervision of IT interns.  
+- Managed onboarding and offboarding by user provisioning, IT orientations, and assets assignment.  
+- Supported corporate mobile devices via BlackBerry UEM, ensuring secure and centralized management.  
+- Assisted with office relocations and workstation setups, ensuring minimal downtime.  
 
 ### Junior Systems Administrator (Internship) — **Total Credit Recovery Ltd.**  
 *Jan 2022 – Sep 2022 — Toronto, Canada*  
-- Administered AD accounts and ESET Protect Cloud
-- Provided technical support and endpoint setup  
-- Managed onboarding and workstation provisioning  
+- Managed user and computer accounts through Active Directory and ESET Protect Cloud.  
+- Deliver technical support on-site visits and remote assistance via SysAid Helpdesk and VNC Solutions.  
+- Provisioned and deployed endpoint devices to new employees across Canada.  
+- Installed, configured, and troubleshoot endpoint devices both physically and virtually.  
+- Utilized SysAid Helpdesk for ticket management, issue resolution, and asset management.  
+- Configured and set up workstations for employees working on-site and remotely.  
+- Documented IT processes, resolutions, and procedural directives systematically.  
+- Managed onboarding and offboarding by user provisioning, IT orientations, and assets assignment.  
+- Assisted with office relocations and workstation setups, ensuring minimal downtime.  
+- Oversaw and managed employee onboarding and offboarding assets management.  
 
 ### Production Worker — **Maple Leaf Foods Inc.**  
 *Jul 2018 – Jan 2021 — Toronto, Canada*  
-- Ensured production compliance with GMP standards  
-- Collaborated with teams to meet deadlines  
-- Maintained an organized and safe work environment  
+- Proactively anticipated issues on the production line and identified solutions.  
+- Collaborated with team members and team leads to meet daily production targets and deadlines.  
+- Maintained compliance with Good Manufacturing Practices standard during all production activities.  
+- Ensure proper labelling of finished items and ensure that they are packaged properly.  
+- Adhered to workplace safety protocols and maintained a clean, organized work environment.  
+- Followed safety protocols and reported potential hazards or equipment malfunctions.  
 
 ---
 
