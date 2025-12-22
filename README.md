@@ -15,23 +15,22 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Google: Android, ChromeOS 
 
 ### Hardware & Devices
-- Computers (Desktops & Laptops) | Servers (On-prem & Cloud)
+- Computers: Desktops & Laptops | Servers: On-Prem & Cloud
 - Network Switches, Routers, Access Points, Wireless Display Devices
 - Phones, VoIP Phones, Soft Phones | NVR & Cloud-Managed Camera Systems
-- Enterprise Printers (Xerox, Brother, Canon, HP) | Industrial Printers (Zebra, Brady)
+- Enterprise Printers: Xerox, Brother, Canon, HP | Industrial Printers: Zebra, Brady
 
 ### Software & Tools
-- Active Directory, SharePoint, Hyper-V, VMware Workstation, Apple Configurator, VNC & LogMeIn, Wireshark, PuTTY Suite, Clonezilla, SmartDeploy, WinSCP, PowerShell, FortiClient & GlobalProtect VPN, Genesys PureConnect, BarTender Administration
+- Active Directory, SharePoint, Hyper-V, VMware Workstation, Apple Configurator
+- VNC & LogMeIn, Wireshark, PuTTY Suite, Clonezilla, SmartDeploy, WinSCP, PowerShell
+- FortiClient & GlobalProtect VPN, Genesys PureConnect, BarTender Administration
 
 ### Cloud & Enterprise Systems
 - Microsoft Entra ID, Microsoft 365 Copilot, Microsoft Intune
-- Exchange, Windows Autopilot
-- VMware vSphere & ESXi
-- Apple Business Manager
-- SOTI MobiControl & Connect
-- ServiceNow, Cisco ISE, Aruba Network
-- Duo Security, Jamf Pro, BlackBerry UEM
-- ESET PROTECT Cloud, FortiClient EMS Cloud 
+- Microsoft Exchange, Windows Autopilot, VMware vSphere & ESXi
+- Apple Business Manager, SOTI MobiControl, SOTI Connect
+- ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
+- Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
 
 ---
 
