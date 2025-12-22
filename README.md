@@ -5,27 +5,28 @@ Welcome to my professional portfolio. I'm an experienced IT professional with **
 I specialize in managing user accounts, computers, and network infrastructure, resolving technical issues efficiently, and contributing to the stabilization and security of IT environments. My strengths include exceptional problem-solving, adaptability, and focus on delivering excellent service both independently and in team settings.
 
 ---
+
 <details>
 <summary><h3>💻 Technical Skills</h3></summary>
 
-### Operating Systems
+**Operating Systems**  
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
 - Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian  
 - Apple: macOS, iOS, iPadOS, tvOS  
 - Google: Android, ChromeOS 
 
-### Hardware & Devices
+**Hardware & Devices**  
 - Computers: Desktops & Laptops | Servers: On-Prem & Cloud
 - Network Switches, Routers, Access Points, Wireless Display Devices
 - Phones, VoIP Phones, Soft Phones | NVR & Cloud-Managed Camera Systems
 - Enterprise Printers: Xerox, Brother, Canon, HP | Industrial Printers: Zebra, Brady
 
-### Software & Tools
+**Software & Tools**  
 - Active Directory, SharePoint, Hyper-V, VMware Workstation, Apple Configurator
 - VNC & LogMeIn, Wireshark, PuTTY Suite, Clonezilla, SmartDeploy, WinSCP, PowerShell
 - FortiClient & GlobalProtect VPN, Genesys PureConnect, BarTender Administration
 
-### Cloud & Enterprise Systems
+**Cloud & Enterprise Systems**  
 - Microsoft Entra ID, Microsoft 365 Copilot, Microsoft Intune
 - Microsoft Exchange, Windows Autopilot, VMware vSphere & ESXi
 - Apple Business Manager, SOTI MobiControl, SOTI Connect
@@ -34,6 +35,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 </details>
 
 ---
+
 <details>
 <summary><h3>🎓 Education</h3></summary>
 
