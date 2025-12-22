@@ -3,12 +3,9 @@
 Welcome to my professional portfolio. I'm an experienced IT professional with **5+ years of proven expertise** in computer and server operations, networking, troubleshooting, asset management, and IT support. My work focuses on delivering efficient solutions, maintaining reliable systems, and supporting organizational goals with professionalism and precision.
 
 I specialize in managing user accounts, computers, and network infrastructure, resolving technical issues efficiently, and contributing to the stabilization and security of IT environments. My strengths include exceptional problem-solving, adaptability, and focus on delivering excellent service both independently and in team settings.
-
 ---
-
 <details>
 <summary><h2>💻 Technical Skills</h2></summary>
-
 ### Operating Systems
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
 - Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian  
