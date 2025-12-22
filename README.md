@@ -112,9 +112,14 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ## Volunteering
 
-- **IT Overview Facilitator** - Take Your Kids to Work Day (Ventura Foods, Nov 2025)  
-- **IT Overview Facilitator** - Take Your Kids to Work Day (Ventura Foods, Nov 2024)  
-- **Open House Tour Ambassador** - Seneca Fall Open House (Seneca College, Nov 2019)  
+- **IT Overview Facilitator**  
+- Take Your Kids to Work Day (Ventura Foods, Nov 2025)  
+
+- **IT Overview Facilitator**  
+- Take Your Kids to Work Day (Ventura Foods, Nov 2024)  
+
+- **Open House Tour Ambassador**  
+- Seneca Fall Open House (Seneca College, Nov 2019)  
 
 ---
 
