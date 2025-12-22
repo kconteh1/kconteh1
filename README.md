@@ -168,7 +168,7 @@ Here are key IT and infrastructure projects I’ve contributed to:
 ## Contact
 
 **Let’s Connect:** 
-🔗 LinkedIn: [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/kaprconteh/)
+🔗 LinkedIn: https://www.linkedin.com/in/kaprconteh/
 📧 Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
 
 ---
