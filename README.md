@@ -34,8 +34,8 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 </details>
 
 ---
-
-## Education
+<details>
+<summary><h3>🎓 Education</h3></summary>
 
 **Seneca Polytechnic**  
 - Computer Systems Technology - Ontario College Advanced Diploma
@@ -51,9 +51,10 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Junior Secondary School - Basic Education Certificate Examination (BECE)  
 - Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
 - Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
-
+</details>
 ---
-
+<details>
+<summary><h3>🖥 Work Experience</h3></summary>
 ## Work Experience
 
 ### IT Systems Technician - **Ventura Foods**  
@@ -106,7 +107,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Ensure proper labelling of finished items and ensure that they are packaged properly.  
 - Adhered to workplace safety protocols and maintained a clean, organized work environment.  
 - Followed safety protocols and reported potential hazards or equipment malfunctions.  
-
+</details>
 ---
 
 ## Projects
