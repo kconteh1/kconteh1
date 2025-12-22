@@ -13,7 +13,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
 - Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian  
 - Apple: macOS, iOS, iPadOS, tvOS  
-- Google: Android, ChromeOS 
+- Google: Android, ChromeOS  
 
 **Hardware & Devices**  
 - Computers: Desktops & Laptops | Servers: On-Prem & Cloud
@@ -33,7 +33,6 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
 - Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
 </details>
-
 <details>
 <summary><h3>🎓 Education</h3></summary>
 
