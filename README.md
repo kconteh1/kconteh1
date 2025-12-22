@@ -1,8 +1,3 @@
-<!-- Matrix-style banner (replace URL with your own image if needed) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/matrix-banner.gif" alt="Matrix Banner" width="100%">
-</p>
-
 # Kapr Idriss Conteh
 
 Welcome to my professional portfolio. I'm an experienced IT professional with **5+ years of proven expertise** in computer and server operations, networking, troubleshooting, asset management, and IT support. My work focuses on delivering efficient solutions, maintaining reliable systems, and supporting organizational goals with professionalism and precision.
