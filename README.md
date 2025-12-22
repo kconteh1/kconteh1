@@ -37,21 +37,22 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 ## Education
 
 **Seneca College**  
-*Ontario College Advanced Diploma — Computer Systems Technology*  
+*Ontario College Advanced Diploma - Computer Systems Technology*  
 *Graduated with Honours, GPA: 3.7*  
 *Sep 2019 – Dec 2022 — Toronto, Canada*  
 *Program Info: https://www.senecapolytechnic.ca/programs/fulltime/CTY.html*  
 
 **Emery Adult Learning Center**  
 *Ontario Secondary School Diploma*  
-- Class of 2018/19 Valedictorian, GPA: 4.0  
-- Apr 2018 – Jun 2019 — Toronto, Canada
+*Class of 2018/19 Valedictorian, GPA: 4.0*  
+*Apr 2018 – Jun 2019 — Toronto, Canada*  
 
 **Albert Academy Secondary School**  
 *High School Diploma — General Studies*  
-- Sep 2012 – Jun 2016 — Freetown, Sierra Leone  
--- Basic Education Certificate Examination (BECE)
--- West African Senior School Certificate Examination (WASSCE)
+*Sep 2012 – Jun 2016 — Freetown, Sierra Leone*  
+*Basic Education Certificate Examination (BECE)*  
+*West African Senior School Certificate Examination (WASSCE)*  
+
 ---
 
 ## Work Experience
