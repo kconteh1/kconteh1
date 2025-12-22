@@ -7,31 +7,33 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 ---
 
 <details>
-<summary><h3>💻 Technical Skills</h3></summary>  
+<summary><h3>💻 Technical Skills</h3></summary>
 
-### Operating Systems  
-- Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
-- Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian  
-- Apple: macOS, iOS, iPadOS, tvOS  
-- Google: Android, ChromeOS 
+<div style="font-size: 12px; line-height: 1.3;">
+### Operating Systems
+- Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO
+- Linux/Unix: Distros & Servers - Ubuntu, CentOS, RHEL, Debian
+- Apple: macOS, iOS, iPadOS, tvOS
+- Google: Android, ChromeOS
 
-### Hardware & Devices  
+### Hardware & Devices
 - Computers: Desktops & Laptops | Servers: On-Prem & Cloud
 - Network Switches, Routers, Access Points, Wireless Display Devices
 - Phones, VoIP Phones, Soft Phones | NVR & Cloud-Managed Camera Systems
 - Enterprise Printers: Xerox, Brother, Canon, HP | Industrial Printers: Zebra, Brady
 
-### Software & Tools  
-- Active Directory, SharePoint, Hyper-V, VMware Workstation, Apple Configurator  
-- VNC & LogMeIn, Wireshark, PuTTY Suite, Clonezilla, SmartDeploy, WinSCP, PowerShell  
-- FortiClient & GlobalProtect VPN, Genesys PureConnect, BarTender Administration  
+### Software & Tools
+- Active Directory, SharePoint, Hyper-V, VMware Workstation, Apple Configurator
+- VNC & LogMeIn, Wireshark, PuTTY Suite, Clonezilla, SmartDeploy, WinSCP, PowerShell
+- FortiClient & GlobalProtect VPN, Genesys PureConnect, BarTender Administration
 
-### Cloud & Enterprise Systems  
-- Microsoft Entra ID, Microsoft 365 Copilot, Microsoft Intune  
-- Microsoft Exchange, Windows Autopilot, VMware vSphere & ESXi  
-- Apple Business Manager, SOTI MobiControl, SOTI Connect  
-- ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM  
-- Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
+### Cloud & Enterprise Systems
+- Microsoft Entra ID, Microsoft 365 Copilot, Microsoft Intune
+- Microsoft Exchange, Windows Autopilot, VMware vSphere & ESXi
+- Apple Business Manager, SOTI MobiControl, SOTI Connect
+- ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
+- Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud
+</div>
 </details>
 
 <details>
