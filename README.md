@@ -112,8 +112,9 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 ## Volunteering
 
+- **IT Overview Facilitator** — Take Your Kids to Work Day (Ventura Foods, Nov 2025)  
 - **IT Overview Facilitator** — Take Your Kids to Work Day (Ventura Foods, Nov 2024)  
-- **Open House Tour Ambassador** — Seneca Fall Open House (Nov 2019)  
+- **Open House Tour Ambassador** — Seneca Fall Open House (Seneca College, Nov 2019)  
 
 ---
 
@@ -122,23 +123,24 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 Here are key IT and infrastructure projects I’ve contributed to:
 
 **Ventura Foods**
-- **Zebra Printers Upgrade & SOTI Connect Enrollment** — Firmware upgrades & device management enrollment  
-- **Toronto Plant Office Renovation Support** — Network and hardware setup  
-- **Windows 11 Upgrade Rollout** — Intune and Autopilot deployment coordination  
-- **Skyway Office Decommissioning** — Device cleanup and infrastructure removal  
-- **Phone & iPad Deployment Projects** — Apple Business Manager enrollment & MDM onboarding  
+- **Zebra Printers Upgrade & SOTI Connect Enrollment Project**  
+- **Toronto Plant Office Renovation Project**  
+- **Windows 11 Upgrade Rollout Project**  
+- **Skyway Office Decommission Project**  
+- **Phone Upgrade & Deployment Project**  
+- **RedZone iPads Deployment Project**  
 
 **Total Credit Recovery Ltd.**
-- **Windows 10 to 11 Migration**
-- **FortiClient VPN Deployment**
-- **ESET Protect Deployment**
-- **Onboarding & Offboarding Asset Management**
+- **Windows 10 to 11 Migration Project**  
+- **VPN Upgrade & Deployment Project**  
+- **ESET Protect Deployment Project**  
+- **Onboarding & Offboarding Asset Management Project**  
 
 **Seneca College Projects**
-- **Multi-Access Print Service Integration**
-- **Hybrid Network Server Design**
-- **System Hardening and Security Controls**
-- **Portable Smart Security Camera**
+- **Multi-Access Print Service Integration Project**  
+- **Hybrid Network Server Design Project**  
+- **System Hardening Project**  
+- **Portable Smart Security Camera Project**  
 
 ---
 
