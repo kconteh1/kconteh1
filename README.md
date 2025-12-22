@@ -224,14 +224,9 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 
 </details>
 
-<details>
-<summary><strong>Contact</strong></summary>
-
 **Let’s Connect:**
 - 🔗 LinkedIn: https://www.linkedin.com/in/kaprconteh/
 - 📧 Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
-
-</details>
 
 ---
 
