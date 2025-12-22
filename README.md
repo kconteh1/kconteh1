@@ -32,9 +32,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Apple Business Manager, SOTI MobiControl, SOTI Connect
 - ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
 - Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
-
 </details>
-
 <details>
 <summary><h2>🎓 Education</h2></summary>
 
