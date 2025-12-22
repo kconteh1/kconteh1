@@ -184,7 +184,7 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 </details>
 
 <details>
-<summary><strong>### Volunteering Experience</strong></summary>
+<summary><strong>Volunteering Experience</strong></summary>
 
 **IT Overview Facilitator**  
 *Take Your Kids to Work Day (Ventura Foods, Nov 2025)*  
@@ -204,7 +204,7 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 </details>
 
 <details>
-<summary><strong>## Honours, Awards & Achievements</strong></summary>
+<summary><strong>Honours, Awards & Achievements</strong></summary>
 
 - Outstanding Colleague Recognition Award  
 - Outstanding Support Staff Award Nominee  
