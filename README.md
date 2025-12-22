@@ -7,7 +7,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 ---
 
 <details>
-<summary><strong>## Technical Skills  </strong></summary>
+<summary><h2>💻 Technical Skills</h2></summary>
 
 ### Operating Systems
 - Windows: Clients & Servers (2016, 2019, 2022) - AD, DNS, DHCP, GPO  
@@ -36,7 +36,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 </details>
 
 <details>
-<summary><strong>Education</strong></summary>
+<summary><h2>🎓 Education</h2></summary>
 
 **Seneca Polytechnic**  
 - Computer Systems Technology - Ontario College Advanced Diploma
@@ -56,7 +56,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 </details>
 
 <details>
-<summary><strong>Work Experience</strong></summary>
+<summary><h2>💼 Work Experience</h2></summary>
 
 ### IT Systems Technician - **Ventura Foods**  
 *Apr 2024 - Present | Toronto, Canada.*  
@@ -112,7 +112,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 </details>
 
 <details>
-<summary><strong>Projects</strong></summary>
+<summary><h2>📂 Projects</h2></summary>
 
 ### **Ventura Foods Projects**
 **Zebra Printers Upgrade & SOTI Connect Enrollment Project**  
@@ -162,7 +162,7 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 </details>
 
 <details>
-<summary><strong>Certifications</strong></summary>
+<summary><h2>🏆 Certifications</h2></summary>
 
 - Introduction to Modern AI - Cisco Networking Academy  
 - Network Technician Career Path - Cisco Networking Academy  
@@ -179,7 +179,7 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 </details>
 
 <details>
-<summary><strong>Volunteering Experience</strong></summary>
+<summary><h2>🤝 Volunteering Experience</h2></summary>
 
 **IT Overview Facilitator**  
 *Take Your Kids to Work Day (Ventura Foods, Nov 2025)*  
@@ -199,7 +199,7 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 </details>
 
 <details>
-<summary><strong>Honours, Awards & Achievements</strong></summary>
+<summary><h2>🎖 Honours, Awards & Achievements</h2></summary>
 
 - Outstanding Colleague Recognition Award  
 - Outstanding Support Staff Award Nominee  
@@ -218,6 +218,8 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 - Award of Distinction for Mathematics  
 
 </details>
+
+---
 
 ## Contact
 
