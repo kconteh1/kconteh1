@@ -122,7 +122,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 
 Here are key IT and infrastructure projects I’ve contributed to:
 
-**Ventura Foods**
+**Ventura Foods Projects**
 - **Zebra Printers Upgrade & SOTI Connect Enrollment Project**  
 - **Toronto Plant Office Renovation Project**  
 - **Windows 11 Upgrade Rollout Project**  
@@ -130,7 +130,7 @@ Here are key IT and infrastructure projects I’ve contributed to:
 - **Phone Upgrade & Deployment Project**  
 - **RedZone iPads Deployment Project**  
 
-**Total Credit Recovery Ltd.**
+**Total Credit Recovery Ltd. Projects**
 - **Windows 10 to 11 Migration Project**  
 - **VPN Upgrade & Deployment Project**  
 - **ESET Protect Deployment Project**  
