@@ -51,12 +51,9 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
 - Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
 </details>
----
 <details>
 <summary><h3>🖥 Work Experience</h3></summary>
-## Work Experience
-
-### IT Systems Technician - **Ventura Foods**  
+**IT Systems Technician - Ventura Foods**  
 *Apr 2024 - Present | Toronto, Canada.*  
 - Deliver technical support across Canada and the U.S. via ServiceNow, ensuring minimal downtime.  
 - Manage user & computer accounts, group memberships, through Active Directory & Microsoft Entra ID.  
@@ -71,7 +68,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Schedule and coordinate Lenovo onsite hardware repairs for warranted devices.  
 - Support IT setups for meetings, plant townhall events, and conference rooms.  
 
-### IT Systems Administrator - **Total Credit Recovery Ltd.**  
+**IT Systems Administrator - Total Credit Recovery Ltd.**  
 *Dec 2022 - Apr 2024 | Toronto, Canada.*  
 - Administered user and computer accounts, permissions, and group policies through Active Directory.  
 - Deliver technical support on-site visits and remote assistance via SysAid Helpdesk and VNC Solutions.  
@@ -85,7 +82,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Supported corporate mobile devices via BlackBerry UEM, ensuring secure and centralized management.  
 - Assisted with office relocations and workstation setups, ensuring minimal downtime.  
 
-### Junior Systems Administrator (Internship) - **Total Credit Recovery Ltd.**  
+**Junior Systems Administrator (Internship) - Total Credit Recovery Ltd.**  
 *Jan 2022 - Sep 2022 | Toronto, Canada.*  
 - Managed user and computer accounts through Active Directory and ESET Protect Cloud.  
 - Deliver technical support on-site visits and remote assistance via SysAid Helpdesk and VNC Solutions.  
@@ -98,7 +95,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Assisted with office relocations and workstation setups, ensuring minimal downtime.  
 - Oversaw and managed employee onboarding and offboarding assets management.  
 
-### Production Worker - **Maple Leaf Foods Inc.**  
+**Production Worker - Maple Leaf Foods Inc.**  
 *Jul 2018 - Jan 2021 | Toronto, Canada.*  
 - Proactively anticipated issues on the production line and identified solutions.  
 - Collaborated with team members and team leads to meet daily production targets and deadlines.  
@@ -107,14 +104,12 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Adhered to workplace safety protocols and maintained a clean, organized work environment.  
 - Followed safety protocols and reported potential hazards or equipment malfunctions.  
 </details>
----
+<details>
+<summary><h3>**🛠 Projects**</h3></summary>  
+Here are key IT and infrastructure projects I’ve contributed to:  
 
-## Projects
-
-Here are key IT and infrastructure projects I’ve contributed to:
-
-### **Ventura Foods Projects**
-**Zebra Printers Upgrade & SOTI Connect Enrollment Project**  
+**Ventura Foods Projects**
+*Zebra Printers Upgrade & SOTI Connect Enrollment Project*  
 Contributed to the successful upgrade and enrollment of all Zebra printers ZT510 to the SOTI Connect environment. Upgraded the firmware on each printer to enhance performance and security. Additionally, running an MQTT program to enroll the printers into SOTI Connect enables comprehensive monitoring and device management across the network, making it easy for the IT team to manage the printers.  
 
 **Toronto Plant Office Renovation Project**  
