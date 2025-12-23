@@ -209,16 +209,14 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 - Ontario Secondary School Diploma (OSSD)  
 - Principal's Award for Student Leadership  
 - Community of Learners Award  
-- Valedictorian - Class of 2018/19 
+- Valedictorian - Class of 2018/19  
 - Award of Distinction for Computer Studies  
 - Award of Distinction for Ontario Literacy Course  
 - Award of Distinction for Mathematics  
 
 </details>
 
-<h3>## 📬 Contact</h3>
-
-**Let’s Connect:**
+**📬 Let’s Connect:**
 - LinkedIn: https://www.linkedin.com/in/kaprconteh
 - Credly: https://www.credly.com/users/kapr-conteh/badges
 - Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
