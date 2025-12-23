@@ -219,19 +219,22 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 ---
 
 ## 📬 Let’s Connect
-I’m always open to networking, collaborations, freelance and professional opportunities. Feel free to reach out through the links below:
+
+I’m always open to **networking, collaborations, freelance work, and professional opportunities**.  
+Feel free to connect or reach out through any of the platforms below.
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaprconteh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/kaprconteh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/users/kapr-conteh/badges">
-    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly"/>
+  <a href="https://www.credly.com/users/kapr-conteh/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Certifications-FF6F00?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~014f0521910cdccbb6">
-    <img src="https://img.shields.io/badge/Upwork_Freelance-Contact_Me-green?style=for-the-badge&logo=upwork"/>
+  <a href="https://www.upwork.com/freelancers/~014f0521910cdccbb6" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Freelance-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="https://zh5te29pvcv.typeform.com/to/wof8ZnvD">
-    <img src="https://img.shields.io/badge/Professional_Inquiries-Contact_Me-success?style=for-the-badge&logo=googleforms"/>
+  <a href="https://zh5te29pvcv.typeform.com/to/wof8ZnvD" target="_blank">
+    <img src="https://img.shields.io/badge/Professional_Inquiries-Contact-2EA44F?style=for-the-badge&logo=googleforms&logoColor=white" />
   </a>
 </p>
 
