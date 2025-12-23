@@ -159,7 +159,7 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 </details>
 
 <details>
-<summary><h2>📜 Certifications</h2></summary> 
+<summary><h3>📜 Certifications</h3></summary> 
 
 - Introduction to Modern AI - Cisco Networking Academy  
 - Network Technician Career Path - Cisco Networking Academy  
@@ -189,16 +189,15 @@ The Ventura Foods Toronto Plant hosted its 4th annual “Take Your Kids to Work 
 The Ventura Foods Toronto Plant hosted its 3rd annual “Take Your Kids to Work Day”. Students had the opportunity to explore key areas of our daily operations, including the Warehouse, Maintenance, Production, and Information Technology. I had the pleasure of guiding them through an overview of our Information Technology department, highlighting my day-to-day duties and responsibilities within IT operations. The session provided students with insight into how technology supports and drives efficiency across the plant’s business processes, from system maintenance and user support to network infrastructure and data security.  
 
 **Open House Tour Ambassador**  
-*Seneca Fall Open House (Seneca College, Nov 2019)*  
+*Seneca Fall Open House (Seneca Polytechnic, Nov 2019)*  
 
-Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility of guiding attendees on an extensive tour of our campus, providing them with an immersive experience of our state-of-the-art classrooms, well-equipped laboratories, and diverse student facilities, thereby allowing them to truly embrace the vibrant campus life Seneca College has to offer.  
+Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility of guiding attendees on an extensive tour of our campus, providing them with an immersive experience of our state-of-the-art classrooms, well-equipped laboratories, and diverse student facilities, thereby allowing them to truly embrace the vibrant campus life Seneca Polytechnic has to offer.  
 
 </details>
 
 <details>
 <summary><h3>🏆 Honours, Awards & Achievements</h3></summary>
 
-## Honours, Awards & Achievement 
 - Outstanding Colleague Recognition Award  
 - Outstanding Support Staff Award Nominee  
 - RMA Canada Bursary Award  
@@ -211,7 +210,7 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 - Principal's Award for Student Leadership  
 - Community of Learners Award  
 - Valedictorian - Class of 2018/19 
-- Awards of Distinction for Computer Studies  
+- Award of Distinction for Computer Studies  
 - Award of Distinction for Ontario Literacy Course  
 - Award of Distinction for Mathematics  
 
@@ -220,13 +219,12 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 ## 📬 Contact
 
 **Let’s Connect:**
-- 🔗 LinkedIn: https://www.linkedin.com/in/kaprconteh/
-- 📧 Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
+- LinkedIn: https://www.linkedin.com/in/kaprconteh
+- Credly: https://www.credly.com/users/kapr-conteh/badges
+- Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
 
 ---
 
 ## Summary
 
 This repository reflects my full professional experience in IT systems, networking, cloud management, and technical support. It highlights real projects, certifications, awards, and practical work history. I welcome collaboration, professional opportunities, and conversation with recruiters, peers, and hiring managers.
-
----
