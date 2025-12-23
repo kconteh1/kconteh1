@@ -33,6 +33,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - ServiceNow, Cisco ISE, Aruba Network, Jamf Pro, BlackBerry UEM
 - Duo Security, ESET PROTECT Cloud, FortiClient EMS Cloud 
 </details>
+
 <details>
 <summary><h3>🎓 Education</h3></summary>
 
@@ -51,6 +52,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
 - Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
 </details>
+
 <details>
 <summary><h3>🖥 Work Experience</h3></summary>
 **IT Systems Technician - Ventura Foods**  
@@ -104,8 +106,9 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Adhered to workplace safety protocols and maintained a clean, organized work environment.  
 - Followed safety protocols and reported potential hazards or equipment malfunctions.  
 </details>
+
 <details>
-<summary><h3>**🛠 Projects**</h3></summary>  
+<summary><h3>🛠 Projects</h3></summary>  
 Here are key IT and infrastructure projects I’ve contributed to:  
 
 **Ventura Foods Projects**
@@ -153,9 +156,10 @@ I contributed to this successful project by implementing key security measures o
 **Portable Smart Security Camera Project**  
 Contributed to the development of a Portable Smart Security Camera powered by Raspberry Pi, designed to capture images or videos of unauthorized individuals. Implemented OpenCV for efficient object detection capabilities. Integrated email functionality to enable the Raspberry Pi to send notifications containing detected objects.
 
----
+</details>
 
-## Certifications
+<details>
+<summary><h2>📜 Certifications</h2></summary> 
 
 - Introduction to Modern AI - Cisco Networking Academy  
 - Network Technician Career Path - Cisco Networking Academy  
@@ -169,9 +173,10 @@ Contributed to the development of a Portable Smart Security Camera powered by Ra
 - Introduction to AI Skills for Nonprofit - Microsoft Learn  
 - Automox Level I Essentials - Automox University  
 
----
+</details>
 
-## Volunteering Experience
+<details>
+<summary><h3>🤝 Volunteering Experience</h3></summary>
 
 **IT Overview Facilitator**  
 *Take Your Kids to Work Day (Ventura Foods, Nov 2025)*  
@@ -188,7 +193,10 @@ The Ventura Foods Toronto Plant hosted its 3rd annual “Take Your Kids to Work 
 
 Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility of guiding attendees on an extensive tour of our campus, providing them with an immersive experience of our state-of-the-art classrooms, well-equipped laboratories, and diverse student facilities, thereby allowing them to truly embrace the vibrant campus life Seneca College has to offer.  
 
----
+</details>
+
+<details>
+<summary><h3>🏆 Honours, Awards & Achievements</h3></summary>
 
 ## Honours, Awards & Achievement 
 - Outstanding Colleague Recognition Award  
@@ -207,9 +215,9 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 - Award of Distinction for Ontario Literacy Course  
 - Award of Distinction for Mathematics  
 
----
+</details>
 
-## Contact
+## 📬 Contact
 
 **Let’s Connect:**
 - 🔗 LinkedIn: https://www.linkedin.com/in/kaprconteh/
