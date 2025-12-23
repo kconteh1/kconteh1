@@ -196,7 +196,7 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 </details>
 
 <details>
-<summary><h3>🏆 Honours, Awards & Achievements</h3></summary>
+<summary><h3>🏆 Awards & Achievements</h3></summary>
 
 - Outstanding Colleague Recognition Award  
 - Outstanding Support Staff Award Nominee  
@@ -218,10 +218,19 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 
 ---
 
-## 📬 Let’s Connect:
-- LinkedIn: https://www.linkedin.com/in/kaprconteh
-- Credly: https://www.credly.com/users/kapr-conteh/badges
-- Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaprconteh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.credly.com/users/kapr-conteh/badges">
+    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly"/>
+  </a>
+  <a href="https://zh5te29pvcv.typeform.com/to/wof8ZnvD">
+    <img src="https://img.shields.io/badge/Professional_Inquiries-Contact-success?style=for-the-badge&logo=googleforms"/>
+  </a>
+</p>
 
 ---
 
