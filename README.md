@@ -216,7 +216,9 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 
 </details>
 
-**📬 Let’s Connect:**
+---
+
+## 📬 Let’s Connect:
 - LinkedIn: https://www.linkedin.com/in/kaprconteh
 - Credly: https://www.credly.com/users/kapr-conteh/badges
 - Professional Inquiries: https://zh5te29pvcv.typeform.com/to/wof8ZnvD
