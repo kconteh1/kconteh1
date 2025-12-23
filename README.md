@@ -219,7 +219,7 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 ---
 
 ## 📬 Let’s Connect
-
+I’m always open to meaningful conversations, collaborations, and professional opportunities. Feel free to reach out or explore my work through the links below:
 <p align="center">
   <a href="https://www.linkedin.com/in/kaprconteh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
