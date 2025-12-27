@@ -131,7 +131,7 @@ Completed the successful upgrade and deployment of employees' phones by enrollin
 ***RedZone iPads Deployment Project***  
 Completed the successful deployment of iPads to employees by enrolling the iPads into Apple Business Manager and Intune for MDM. This project involved ensuring that the devices were properly set up with the RedZone application, integrating a process that allowed employees to access critical resources and enhance their productivity. I helped facilitate a smooth transition and effective utilization of the new devices across the team.
 
-**<ins>Total Credit Recovery Ltd. Projects</ins>**  
+**Total Credit Recovery Ltd. Projects**  
 
 ***Windows 10 to 11 Migration Project***  
 Contributed to an ongoing project at the time, on upgrading the company's computers operating system from Windows 10 to Windows 11. My contributions span tasks including evaluating hardware compatibilities, updating system requirements, testing application compatibilities, and participating in deployment strategies.
