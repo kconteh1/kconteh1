@@ -111,7 +111,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 <details>
 <summary><h3>🛠 Projects</h3></summary>  
 
-**Ventura Foods Projects**  
+## **Ventura Foods Projects**  
 
 ***Zebra Printers Upgrade & SOTI Connect Enrollment Project***  
 Contributed to the successful upgrade and enrollment of all Zebra printers ZT510 to the SOTI Connect environment. Upgraded the firmware on each printer to enhance performance and security. Additionally, running an MQTT program to enroll the printers into SOTI Connect enables comprehensive monitoring and device management across the network, making it easy for the IT team to manage the printers.  
@@ -131,7 +131,7 @@ Completed the successful upgrade and deployment of employees' phones by enrollin
 ***RedZone iPads Deployment Project***  
 Completed the successful deployment of iPads to employees by enrolling the iPads into Apple Business Manager and Intune for MDM. This project involved ensuring that the devices were properly set up with the RedZone application, integrating a process that allowed employees to access critical resources and enhance their productivity. I helped facilitate a smooth transition and effective utilization of the new devices across the team.
 
-**Total Credit Recovery Ltd. Projects**  
+## **Total Credit Recovery Ltd. Projects**  
 
 ***Windows 10 to 11 Migration Project***  
 Contributed to an ongoing project at the time, on upgrading the company's computers operating system from Windows 10 to Windows 11. My contributions span tasks including evaluating hardware compatibilities, updating system requirements, testing application compatibilities, and participating in deployment strategies.
