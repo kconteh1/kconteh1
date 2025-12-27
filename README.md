@@ -111,8 +111,8 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 <details>
 <summary><h3>🛠 Projects</h3></summary>  
 
-### **Ventura Foods Projects**  
-**Zebra Printers Upgrade & SOTI Connect Enrollment Project**  
+**Ventura Foods Projects**  
+*Zebra Printers Upgrade & SOTI Connect Enrollment Project*  
 Contributed to the successful upgrade and enrollment of all Zebra printers ZT510 to the SOTI Connect environment. Upgraded the firmware on each printer to enhance performance and security. Additionally, running an MQTT program to enroll the printers into SOTI Connect enables comprehensive monitoring and device management across the network, making it easy for the IT team to manage the printers.  
 
 **Toronto Plant Office Renovation Project**  
