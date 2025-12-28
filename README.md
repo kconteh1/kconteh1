@@ -52,7 +52,6 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
 - Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
 </details>
-
 <details>
 <summary><h3>💼 Work Experience</h3></summary>
 
@@ -129,32 +128,28 @@ Completed the successful upgrade and deployment of employees' phones by enrollin
 **RedZone iPads Deployment Project @ Ventura Foods**  
 Completed the successful deployment of iPads to employees by enrolling the iPads into Apple Business Manager and Intune for MDM. This project involved ensuring that the devices were properly set up with the RedZone application, integrating a process that allowed employees to access critical resources and enhance their productivity. I helped facilitate a smooth transition and effective utilization of the new devices across the team.
 
-**Total Credit Recovery Ltd. Projects**  
-
-***Windows 10 to 11 Migration Project***  
+**Windows 10 to 11 Migration Project @ Total Credit Recovery Ltd.**  
 Contributed to an ongoing project at the time, on upgrading the company's computers operating system from Windows 10 to Windows 11. My contributions span tasks including evaluating hardware compatibilities, updating system requirements, testing application compatibilities, and participating in deployment strategies.
 
-***VPN Upgrade & Deployment Project***  
+**VPN Upgrade & Deployment Project @ Total Credit Recovery Ltd.**  
 Contributed to the successful deployment of FortiClient VPN upgrade across WFH computers. Prioritizing seamless VPN connectivity upon user login. The project aims to establish a strong, consistent VPN connection, enhancing remote network security. Leveraging FortiClient EMS Cloud for computer management.
 
-***ESET Protect Deployment Project***  
+**ESET Protect Deployment Project @ Total Credit Recovery Ltd.**  
 Contributed to the successful ESET Full Disk Encryption deployment, securing work-from-home computers against ransomware attacks. Installed and configured ESET Protect Cloud applications. Safeguarded critical data and enhanced the organization's cybersecurity posture for remote workforce operations.
 
-***Onboarding & Offboarding Asset Management Project***  
+**Onboarding & Offboarding Asset Management Project @ Total Credit Recovery Ltd.**  
 Contributed to the improvement of the onboarding and offboarding procedures, specifically focusing on the management of company assets, particularly workstations, for all employees. Implemented necessary changes to improve efficiency and security within the infrastructure.
 
-**Seneca Polytechnic Projects**  
-
-***Multi-Access Print Service Integration Project***  
+**Multi-Access Print Service Integration Project @ Seneca Polytechnic**  
 I contributed to a group project which connected three organizations under a unified and secure printing system. Using Windows Server 2008 and Linux print servers, we enabled two-way printing between the primary and secondary sites, while the third site was restricted to sending print jobs only. The configuration used Samba for cross-platform integration, ensured strong authentication, and achieved smooth, uninterrupted printing across all sites.
 
-***Hybrid Network Server Design Project***  
+**Hybrid Network Server Design Project @ Seneca Polytechnic**  
 This project involved the end-to-end design and deployment of a hybrid network infrastructure combining Azure cloud services with on-premises virtual machines. It began with the creation of virtual environments, including Azure virtual machines, a Linux router, and an Ubuntu client, all running on VMware. Server deployment followed, involving both Windows and Linux systems with full configuration and optimization before and after deployment. The network design phase included developing a detailed topology, installing and configuring DNS, Apache, and IIS servers, and setting up firewalls and routers. Subsequent work focused on implementing mail and database services using MariaDB, along with configuring mail and SQL clients. The project concluded with comprehensive network monitoring and traffic analysis using Wireshark and iptables to ensure stable, secure, and efficient performance across all systems. The result was a fully operational, secure, and scalable hybrid infrastructure.
 
-***System Hardening Project***  
+**System Hardening Project @ Seneca Polytechnic**  
 I contributed to this successful project by implementing key security measures on 2 domains (running Windows Server 2012 R2) to prevent unauthorized access, protect user data, and establish countermeasures. This included configuring Group Policies, enabling Encrypting File System (EFS) for data protection, and setting up auditing with automated alerts for suspicious activities. Testing confirmed the controls effectively secured access, safeguarded information, and ensured continuous monitoring across the domains.
 
-***Portable Smart Security Camera Project***  
+**Portable Smart Security Camera Project @ Seneca Polytechnic**  
 Contributed to the development of a Portable Smart Security Camera powered by Raspberry Pi, designed to capture images or videos of unauthorized individuals. Implemented OpenCV for efficient object detection capabilities. Integrated email functionality to enable the Raspberry Pi to send notifications containing detected objects.
 
 </details>
