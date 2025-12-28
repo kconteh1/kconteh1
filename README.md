@@ -52,6 +52,7 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 - Senior Secondary School - West African Senior School Certificate Examination (WASSCE)  
 - Sep 2012 - Jun 2016 | Freetown, Sierra Leone.  
 </details>
+
 <details>
 <summary><h3>💼 Work Experience</h3></summary>
 
