@@ -111,24 +111,22 @@ I specialize in managing user accounts, computers, and network infrastructure, r
 <details>
 <summary><h3>🛠 Projects</h3></summary>  
 
-**Ventura Foods Projects**  
-
-***Zebra Printers Upgrade & SOTI Connect Enrollment Project***  
+**Zebra Printers Upgrade & SOTI Connect Enrollment Project @ Ventura Foods**  
 Contributed to the successful upgrade and enrollment of all Zebra printers ZT510 to the SOTI Connect environment. Upgraded the firmware on each printer to enhance performance and security. Additionally, running an MQTT program to enroll the printers into SOTI Connect enables comprehensive monitoring and device management across the network, making it easy for the IT team to manage the printers.  
 
-***Toronto Plant Office Renovation Project***  
+**Toronto Plant Office Renovation Project @ Ventura Foods**  
 Contributed to the successful renovation of the Toronto plant offices, lab, and boardrooms by supporting the IT infrastructure setup and integration. Collaborated with systems engineers to configure LAN port connections to designated network switches, set up workstation cubicles with proper network mapping, and deploy printers and other essential IT hardware. Ensured all systems were fully operational and aligned with corporate network and security standards, creating a reliable, high-performance workspace environment.
 
-***Windows 11 Upgrade Rollout Project***  
+**Windows 11 Upgrade Rollout Project @ Ventura Foods**  
 Contributed to the successful upgrade of all desktops and laptops to Windows 11 to enhance performance, security, and user experience. My role includes coordinating with end-users, scheduling automatic network upgrades via Intune, and performing system imaging via Autopilot for specific device models. I addressed concerns and provided post-upgrade support to ensure a smooth and successful transition.
 
-***Skyway Office Decommission Project***  
+**Skyway Office Decommission Project @ Ventura Foods**  
 Contributed to the successful decommissioning of the Skyway office in Canada, ensuring a smooth transition to remote work while maintaining operational efficiency. My responsibilities included coordinating with employees during the office move to support a seamless WFH setup, performing comprehensive device cleanup and decommissioning, and uninstalling network infrastructure such as access points, printers, servers, switches, server cabinet, workstations and miscellaneous equipment. This project ensured minimal disruption and a structured closure of office operations.
 
-***Phone Upgrade & Deployment Project***  
+**Phone Upgrade & Deployment Project @ Ventura Foods**  
 Completed the successful upgrade and deployment of employees' phones by enrolling new iPhones in Apple Business Manager, configuring them on Intune MDM for efficient device management that aligns with the IT policies, and efficiently assigning the devices to employees.
 
-***RedZone iPads Deployment Project***  
+**RedZone iPads Deployment Project @ Ventura Foods**  
 Completed the successful deployment of iPads to employees by enrolling the iPads into Apple Business Manager and Intune for MDM. This project involved ensuring that the devices were properly set up with the RedZone application, integrating a process that allowed employees to access critical resources and enhance their productivity. I helped facilitate a smooth transition and effective utilization of the new devices across the team.
 
 **Total Credit Recovery Ltd. Projects**  
