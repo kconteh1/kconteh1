@@ -228,8 +228,8 @@ I’m always open to networking, collaborations, freelance work & professional o
   <a href="https://www.upwork.com/freelancers/~014f0521910cdccbb6">
     <img src="https://img.shields.io/badge/Upwork_Freelance-Contact_Me-green?style=for-the-badge&logo=upwork"/>
   </a>
-  <a href="https://zh5te29pvcv.typeform.com/to/wof8ZnvD">
-    <img src="https://img.shields.io/badge/Professional_Inquiries-Contact_Me-success?style=for-the-badge&logo=googleforms"/>
+  <a href="https://tally.so/r/ja6b81">
+    <img src="https://img.shields.io/badge/Professional_Inquiries-success?style=for-the-badge&logo=tally"/>
   </a>
 </p>
 
