@@ -232,7 +232,8 @@ I’m always open to networking, collaborations, freelance work & professional o
     <img src="https://img.shields.io/badge/Professional_Inquiries-grey?style=for-the-badge&logo=imessage"/>
   </a>
 </p>
-If you want to get in touch, please fill out my [Contact Me form](https://tally.so/r/ja6b81).
+
+If you want to get in touch, please fill out my [Contact Me form,](https://tally.so/r/ja6b81) thank you.
 
 ---
 
