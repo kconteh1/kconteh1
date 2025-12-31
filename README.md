@@ -220,13 +220,13 @@ Seneca's Fall Open House 2019 - I enthusiastically undertook the responsibility 
 I’m always open to networking, collaborations, freelance work & professional opportunities. Feel free to reach out through the links below:
 <p align="center">
   <a href="https://www.linkedin.com/in/kaprconteh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.credly.com/users/kapr-conteh/badges">
-    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly"/>
+    <img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~014f0521910cdccbb6">
-    <img src="https://img.shields.io/badge/Upwork_Freelance-Contact_Me-green?style=for-the-badge&logo=upwork"/>
+    <img src="https://img.shields.io/badge/Upwork_Freelance-green?style=for-the-badge&logo=upwork"/>
   </a>
   <a href="https://tally.so/r/ja6b81">
     <img src="https://img.shields.io/badge/Professional_Inquiries-success?style=for-the-badge&logo=tally"/>
