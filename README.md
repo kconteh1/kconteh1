@@ -232,7 +232,8 @@ I’m always open to networking, collaborations, freelance work & professional o
     <img src="https://img.shields.io/badge/Professional_Inquiries-Contact_Me-success?style=for-the-badge&logo=googleforms"/>
   </a>
 </p>
-
+You can reach me using my contact form:
+➡️ [Open Contact Form](https://github.com/kconteh1/kconteh1/blob/main/contact.html)
 ---
 
 ## Summary
