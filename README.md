@@ -1,8 +1,6 @@
 # Kapr Idriss Conteh
 
-Welcome to my professional portfolio. I'm an experienced IT professional with **5+ years of proven expertise** in computer and server operations, networking, troubleshooting, asset management, and IT support. My work focuses on delivering efficient solutions, maintaining reliable systems, and supporting organizational goals with professionalism and precision.
-
-I specialize in managing user accounts, computers, and network infrastructure, resolving technical issues efficiently, and contributing to the stabilization and security of IT environments. My strengths include exceptional problem-solving, adaptability, and focus on delivering excellent service both independently and in team settings.
+Welcome to my professional portfolio. Experienced IT professional with over five years of hands-on experience in systems administration and enterprise IT operations. Proven expertise in managing user accounts, endpoint devices, and server environments, with solid contributions to network infrastructure support, technical troubleshooting, and asset lifecycle management. Adept at delivering reliable, efficient solutions, maintaining system stability and security, and providing high-quality technical support aligned with organizational objectives. Known for professionalism, precision, and the ability to collaborate effectively across technical and non-technical teams.
 
 ---
 
