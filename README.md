@@ -1,6 +1,6 @@
 # Kapr Idriss Conteh
 
-Welcome to my professional portfolio. Experienced IT professional with over five years of hands-on experience in systems administration and enterprise IT operations. Proven expertise in managing user accounts, endpoint devices, and server environments, with solid contributions to network infrastructure support, technical troubleshooting, and asset lifecycle management. Adept at delivering reliable, efficient solutions, maintaining system stability and security, and providing high-quality technical support aligned with organizational objectives. Known for professionalism, precision, and the ability to collaborate effectively across technical and non-technical teams.
+Welcome to my professional portfolio. Experienced IT professional with 5+ years of hands-on systems administration and operations experience, including strong backgrounds in user account management, endpoint device administration, server and hardware management, operating systems, and end-user support. Committed to delivering responsive, customer-focused support through clear communication, attentive approach and timely issue resolution.
 
 ---
 
