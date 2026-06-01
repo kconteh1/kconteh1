@@ -249,7 +249,7 @@ I’m always open to networking, collaborations, freelance work & professional o
     <img src="https://img.shields.io/badge/Credly-grey?style=for-the-badge&logo=credly"/>
   </a>
   <a href="https://tally.so/r/ja6b81">
-    <img src="https://img.shields.io/badge/Professional_Inquiries-grey?style=for-the-badge&logo=imessage"/>
+    <img src="https://img.shields.io/badge/Contact_Me-grey?style=for-the-badge&logo=imessage"/>
   </a>
 </p>
 
