@@ -109,6 +109,9 @@ Welcome to my professional portfolio. Experienced IT professional with 5+ years 
 <details>
 <summary><h3>🛠 Projects</h3></summary>  
 
+**QA Communicator iPads & PCs Rollout Project @ Ventura Foods**  
+Contributed to the successful rollout of the QA Communicator solution across the Toronto facility, enhancing accessibility and communication for QA teams on the plant floor. Configured and deployed HMI PCs and iPads using Microsoft Intune for secure provisioning and corporate network connectivity, while ensuring proper mounting for operational use. Collaborated with stakeholders and validated system functionality to ensure a smooth implementation.
+
 **Zebra Printers Upgrade & SOTI Connect Enrollment Project @ Ventura Foods**  
 Contributed to the successful upgrade and enrollment of all Zebra printers ZT510 to the SOTI Connect environment. Upgraded the firmware on each printer to enhance performance and security. Additionally, running an MQTT program to enroll the printers into SOTI Connect enables comprehensive monitoring and device management across the network, making it easy for the IT team to manage the printers.  
 
@@ -121,10 +124,10 @@ Contributed to the successful upgrade of all desktops and laptops to Windows 11 
 **Skyway Office Decommission Project @ Ventura Foods**  
 Contributed to the successful decommissioning of the Skyway office in Canada, ensuring a smooth transition to remote work while maintaining operational efficiency. My responsibilities included coordinating with employees during the office move to support a seamless WFH setup, performing comprehensive device cleanup and decommissioning, and uninstalling network infrastructure such as access points, printers, servers, switches, server cabinet, workstations and miscellaneous equipment. This project ensured minimal disruption and a structured closure of office operations.
 
-**Phone Upgrade & Deployment Project @ Ventura Foods**  
+**Phone Upgrade & Rollout Project @ Ventura Foods**  
 Completed the successful upgrade and deployment of employees' phones by enrolling new iPhones in Apple Business Manager, configuring them on Intune MDM for efficient device management that aligns with the IT policies, and efficiently assigning the devices to employees.
 
-**RedZone iPads Deployment Project @ Ventura Foods**  
+**RedZone iPads Rollout Project @ Ventura Foods**  
 Completed the successful deployment of iPads to employees by enrolling the iPads into Apple Business Manager and Intune for MDM. This project involved ensuring that the devices were properly set up with the RedZone application, integrating a process that allowed employees to access critical resources and enhance their productivity. I helped facilitate a smooth transition and effective utilization of the new devices across the team.
 
 **Windows 10 to 11 Migration Project @ Total Credit Recovery Ltd.**  
@@ -138,6 +141,28 @@ Contributed to the successful ESET Full Disk Encryption deployment, securing wor
 
 **Onboarding & Offboarding Asset Management Project @ Total Credit Recovery Ltd.**  
 Contributed to the improvement of the onboarding and offboarding procedures, specifically focusing on the management of company assets, particularly workstations, for all employees. Implemented necessary changes to improve efficiency and security within the infrastructure.
+
+</details>
+
+<details>
+<summary><h3>AI Evaluation Projects</h3></summary>
+
+**Network & Computer Systems Administrator - EXP Contract Project @ Mercor Inc.**
+Designed and evaluated AI assessment prompts focused on Windows, Linux, Active Directory, networking, and systems administration scenarios. Analyzed model outputs for troubleshooting accuracy, reasoning quality, and instruction adherence while providing detailed evaluations to support LLM benchmarking and quality improvement.
+
+**IT Professional Domain Expert - EXP Contract Project @ Mercor Inc.**
+Developed realistic evaluation tasks covering enterprise IT support, cloud technologies, and technical troubleshooting. Assessed AI-generated responses for technical accuracy, problem-solving effectiveness, and alignment with industry best practices.
+
+**Humanities Academic Evaluator - EXP Contract Project @ Mercor Inc.**
+Created and evaluated prompts across Education, Psychology, Human Resources, Sociology, and Literature. Conducted comparative assessments of AI responses, identifying reasoning gaps, factual inaccuracies, and instruction-following issues to improve model performance.
+
+**Generalist Evaluator Domain Expert - EXP Contract Project @ Mercor Inc.**
+Designed and assessed prompts across diverse domains to evaluate reasoning, clarity, factual accuracy, and communication quality. Performed side-by-side model comparisons and documented findings to support AI quality assurance and benchmarking initiatives.
+
+</details>
+
+<details>
+<summary><h3>School Projects</h3></summary> 
 
 **Multi-Access Print Service Integration Project @ Seneca Polytechnic**  
 I contributed to a group project which connected three organizations under a unified and secure printing system. Using Windows Server 2008 and Linux print servers, we enabled two-way printing between the primary and secondary sites, while the third site was restricted to sending print jobs only. The configuration used Samba for cross-platform integration, ensured strong authentication, and achieved smooth, uninterrupted printing across all sites.
@@ -222,9 +247,6 @@ I’m always open to networking, collaborations, freelance work & professional o
   </a>
   <a href="https://www.credly.com/users/kapr-conteh/badges">
     <img src="https://img.shields.io/badge/Credly-grey?style=for-the-badge&logo=credly"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~014f0521910cdccbb6">
-    <img src="https://img.shields.io/badge/Upwork_Freelance-grey?style=for-the-badge&logo=upwork"/>
   </a>
   <a href="https://tally.so/r/ja6b81">
     <img src="https://img.shields.io/badge/Professional_Inquiries-grey?style=for-the-badge&logo=imessage"/>
