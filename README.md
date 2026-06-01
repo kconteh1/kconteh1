@@ -2,6 +2,10 @@
 
 Welcome to my professional portfolio. Experienced IT professional with 5+ years of hands-on systems administration and operations experience, including strong backgrounds in user account management, endpoint device administration, server and hardware management, operating systems, and end-user support. Committed to delivering responsive, customer-focused support through clear communication, attentive approach and timely issue resolution.
 
+Recognized for exceptional analytical problem-solving abilities, consistently delivering rapid and effective incident resolution. Demonstrates a strong commitment to aligning technology solutions with business objectives while maintaining a high standard of customer service.
+
+Experienced in evaluating and improving Large Language Models (LLMs) through prompt engineering, model benchmarking, human preference evaluation, and quality assurance. Proven ability to analyze complex technical problems, assess AI-generated outputs for accuracy and reasoning, and contribute to the development of reliable, high-performing AI systems. 
+
 ---
 
 <details>
