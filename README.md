@@ -145,7 +145,7 @@ Contributed to the improvement of the onboarding and offboarding procedures, spe
 </details>
 
 <details>
-<summary><h3>AI Evaluation Projects</h3></summary>
+<summary><h3>🛠 AI Evaluation Projects</h3></summary>
 
 **Network & Computer Systems Administrator - EXP Contract Project @ Mercor Inc.**
 Designed and evaluated AI assessment prompts focused on Windows, Linux, Active Directory, networking, and systems administration scenarios. Analyzed model outputs for troubleshooting accuracy, reasoning quality, and instruction adherence while providing detailed evaluations to support LLM benchmarking and quality improvement.
@@ -162,7 +162,7 @@ Designed and assessed prompts across diverse domains to evaluate reasoning, clar
 </details>
 
 <details>
-<summary><h3>School Projects</h3></summary> 
+<summary><h3>🛠 School Projects</h3></summary> 
 
 **Multi-Access Print Service Integration Project @ Seneca Polytechnic**  
 I contributed to a group project which connected three organizations under a unified and secure printing system. Using Windows Server 2008 and Linux print servers, we enabled two-way printing between the primary and secondary sites, while the third site was restricted to sending print jobs only. The configuration used Samba for cross-platform integration, ensured strong authentication, and achieved smooth, uninterrupted printing across all sites.
